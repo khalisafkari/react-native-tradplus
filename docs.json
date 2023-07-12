@@ -2,7 +2,7 @@
     "name": "React Native Tradplus",
     "theme": "#36B9B9",
     "sidebar": [
-      ["Home", "/"],
+      ["Installation", "/"],
       ["Another Page", "/another-page"]
     ]
   }
